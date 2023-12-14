@@ -578,7 +578,7 @@ a {
 }
 
 .blog .blog-list {
-    margin: 55px 0 38px;
+    padding: 55px 0 38px;
     display: flex;
     gap: 30px;
     overflow: hidden;
